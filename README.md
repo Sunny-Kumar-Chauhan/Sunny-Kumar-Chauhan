@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunny-Kumar-Chauhan
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning everything😂
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
